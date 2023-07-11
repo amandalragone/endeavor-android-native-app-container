@@ -1,0 +1,14 @@
+{
+  "ernVersion": "0.51.0",
+  "jsApiImpls": [],
+  "miniApps": [
+    "git+ssh://git@github.com/amandalragone/endeavorminiapp.git#1.0.8"
+  ],
+  "nativeDeps": [
+    "react-native@0.68.7",
+    "ernnavigation-api@2.1.0",
+    "ernnavigation-api-impl-native@2.1.0",
+    "react-native-electrode-bridge@1.6.0"
+  ],
+  "platform": "android"
+}
