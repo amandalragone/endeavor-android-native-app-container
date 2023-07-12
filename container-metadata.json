@@ -2,7 +2,7 @@
   "ernVersion": "0.51.0",
   "jsApiImpls": [],
   "miniApps": [
-    "git+ssh://git@github.com/amandalragone/endeavorminiapp.git#1.0.8"
+    "git+ssh://git@github.com/amandalragone/endeavorminiapp.git#1.0.9"
   ],
   "nativeDeps": [
     "react-native@0.68.7",
